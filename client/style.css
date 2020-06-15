@@ -1,0 +1,25 @@
+html {
+	font: normal 100% Arial;
+	background-color:  white;
+}
+
+h1 {
+	font-size: 320%;
+	color: #66ccff;
+}
+
+h2 {
+	font-size: 100%;
+	color: #8080ff;
+	text-align: center;
+}
+
+#chart {
+	margin-top: 3%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+rect .bar {
+	background-color: pink;
+}
